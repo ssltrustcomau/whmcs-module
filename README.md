@@ -21,4 +21,6 @@ You will now have a new menu item up the top: Addons > Keyko-Admin
 this page will list all the products available through the program.
 
 
-PLEASE NOTE: We have moved this Git to GitLab, this version is no longer maintained.
+
+
+**PLEASE NOTE:** We have moved this Git to GitLab, this version is no longer maintained.
